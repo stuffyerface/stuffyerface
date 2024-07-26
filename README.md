@@ -54,7 +54,11 @@ Softwares
 Sometimes when I create software, I get it officially published so you can directly import it into your code!
 
 <!--Things I've published-->
+
 [STuF](https://github.com/stuffyerface/STuF) - A url conversion format that shortens and obfuscates strings
+
+![npm downloads](https://img.shields.io/npm/d18m/stuf)
+
 Install STuF in your project via npm:
 ```sh
 npm install stuf
