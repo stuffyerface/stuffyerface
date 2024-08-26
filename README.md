@@ -7,6 +7,11 @@
   <img src="https://img.shields.io/github/followers/stuffyerface.svg?style=social&label=Follow" alt="followers">
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/stuffyerface" alt="stars">
 </p>
+<p align="center">
+    <a href='https://ko-fi.com/stuffydev' target='_blank'>
+    <img src='https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA' border='0' alt='Support my projects' />
+  </a>
+</p>
 
 <!--User Info-->
 I'm a United States based Developer with a BS in Computer Science and a passion for Game Design. I am always interested in learning a new skill! This github account hosts all my personal projects. I also have a [bot account](https://github.com/stuffybot) that I use as an API! I'm most well known for my work in the MineCraft space, as you will see in my most popular respositories. I also host a Discord bot used in more than 100 servers, the code for which can be seen [here](https://github.com/stuffyerface/apbot). Much of my day to day experience is in scripting languages and REST APIs, but I love working on all types of projects!
