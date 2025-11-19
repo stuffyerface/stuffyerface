@@ -69,6 +69,12 @@ Install STuF in your project via npm:
 npm install stuf
 ```
 
+### My Games
+
+- Play [The Purple](https://www.planetminecraft.com/project/the-purple-6526015/) on Minecraft Realms or on your own server
+- Play [Snowy Skirmish 2](https://www.planetminecraft.com/project/snowy-skirmish-2-avalanche/) on Minecraft Realms or on your own server
+- Play [Crafty Cannoneers](https://www.planetminecraft.com/project/crafty-cannoneers/) on Minecraft Realms or on your own server
+
 <!--Signature-->
 <h3 align="center"><b>Get in touch!</b></h3>
 
