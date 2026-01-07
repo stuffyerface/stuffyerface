@@ -14,7 +14,7 @@
 </p>
 
 <!--User Info-->
-I'm a United States based Developer with a BS in Computer Science and a passion for Game Design. I am always interested in learning a new skill! This github account hosts all my personal projects. I also have a [bot account](https://github.com/stuffybot) that I use as an API! I'm most well known for my work in the MineCraft space, as you will see in my most popular respositories. I also host a Discord bot used in more than 100 servers, the code for which can be seen [here](https://github.com/stuffyerface/apbot). Much of my day to day experience is in scripting languages and REST APIs, but I love working on all types of projects!
+I'm a United States based Developer with a BS in Computer Science and a passion for Game Design. I am always interested in learning a new skill! This github account hosts all my personal projects. I also have a [bot account](https://github.com/stuffybot) that I use as an API! I'm most well known for my work in the Minecraft space, as you will see in my most popular respositories. I also host a Discord bot used in more than 100 servers, the code for which can be seen [here](https://github.com/stuffyerface/apbot). Much of my day to day experience is in scripting languages and REST APIs, but I love working on all types of projects!
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,7 +32,7 @@ My favorite programming languages (in order)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()&nbsp;
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)]()&nbsp;
 
-[![Github Public Language Breakdown](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffyerface&layout=compact&hide=procfile&size_weight=0.5&count_weight=0.5)]()&nbsp;
+[![Github Public Language Breakdown](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stuffyerface&layout=compact&hide=procfile&size_weight=0.5&count_weight=0.5)]()&nbsp;
 
 Softwares
 
